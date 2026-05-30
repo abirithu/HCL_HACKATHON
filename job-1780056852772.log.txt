@@ -1,0 +1,30 @@
+> OIE_002 INFO 2026-05-29T12:14:33.817Z Starting export operation.
+Execution Client: UI
+Job Name: job-1780056852772
+Organization: K RAMAKRISHNAN COLLEGE OF ENGINEERING
+Job Id: eod0iV7I0IejazMiEIW68G
+User: csa2208@krce.ac.in
+> OIE_004 INFO 2026-05-29T12:14:33.895Z Successfully exported object [/SYS/_SYSTEM_PROJECT] of type [Project] id [33ZoyhaBZNNizSBYYlPBGk]
+> OIE_004 INFO 2026-05-29T12:14:33.895Z Successfully exported object [/Explore/HACKTHON_MAIN] of type [Project] id [99IZalj1NAih0nVr00yUkQ]
+> OIE_004 INFO 2026-05-29T12:14:33.941Z Successfully exported object [/SYS/_SYSTEM_FOLDER] of type [Folder] id [2JEVxqYN4Kbbpxh5xe9UeB]
+> OIE_004 INFO 2026-05-29T12:14:34.021Z Successfully exported object [/SYS/DESKTOP-ATSMOU1] of type [AgentGroup] id [a91Px2Tv3jMhFNLVkodz4O]
+> OIE_004 INFO 2026-05-29T12:14:34.103Z Successfully exported object [/SYS/oracle_HR] of type [Connection] id [eAVwIxJrtQLhQDeqo6GJ66]
+> OIE_004 INFO 2026-05-29T12:14:34.103Z Successfully exported object [/SYS/stage] of type [Connection] id [5TTOIRlWBsNbyUVfJGWz2O]
+> OIE_004 INFO 2026-05-29T12:14:34.103Z Successfully exported object [/SYS/stagee] of type [Connection] id [6exygV32cYPch1OchhGuyp]
+> OIE_004 INFO 2026-05-29T12:14:34.596Z Successfully exported object [/Explore/HACKTHON_MAIN/M_ROOM_MASTER] of type [DTEMPLATE] id [azO3g3SuJCVjftfHHowOMS]
+> OIE_004 INFO 2026-05-29T12:14:34.596Z Successfully exported object [/Explore/HACKTHON_MAIN/M_GUEST_MASTER] of type [DTEMPLATE] id [in6kyGiQEsBebMgR1u0GYs]
+> OIE_004 INFO 2026-05-29T12:14:34.596Z Successfully exported object [/Explore/HACKTHON_MAIN/M_BILLING] of type [DTEMPLATE] id [0N7H6ahqG9fc2KatNIvD2I]
+> OIE_004 INFO 2026-05-29T12:14:34.596Z Successfully exported object [/Explore/HACKTHON_MAIN/M_CHECKIN_CHECKOUT] of type [DTEMPLATE] id [dylUSyEgPWBkCefnpGoPwr]
+> OIE_004 INFO 2026-05-29T12:14:35.256Z Successfully exported object [/Explore/HACKTHON_MAIN/MT_LOAD_GUEST] of type [MTT] id [6sZOZcHlnUOe6eRP87hMm2]
+> OIE_004 INFO 2026-05-29T12:14:35.256Z Successfully exported object [/Explore/HACKTHON_MAIN/MT_LOAD_ROOM] of type [MTT] id [16tevaa95qtjZ5pgTYKMkd]
+> OIE_004 INFO 2026-05-29T12:14:35.256Z Successfully exported object [/Explore/HACKTHON_MAIN/MT_BILLING] of type [MTT] id [4kxdb2DDE6zjAOiNyqDxoI]
+> OIE_004 INFO 2026-05-29T12:14:35.256Z Successfully exported object [/Explore/HACKTHON_MAIN/MT_CHECKIN_CHECKOUT] of type [MTT] id [7Gr6WfBJwI4jO9v0dF1f4d]
+> OIE_004 INFO 2026-05-29T12:14:35.301Z Successfully exported object [/Explore/HACKTHON_MAIN/tf_Hospitality_ETL] of type [TASKFLOW] id [kegzvDQgJ0Tb9XitZsQOc9]
+> OIE_003 INFO 2026-05-29T12:14:35.301Z Finished export operation.
+Job Name: job-1780056852772
+Start Time: 05/29/26 12:14 PM
+End Time: 05/29/26 12:14 PM
+Started by: csa2208@krce.ac.in
+Start Method: UI
+Source Organization: K RAMAKRISHNAN COLLEGE OF ENGINEERING
+Status: SUCCESSFUL
